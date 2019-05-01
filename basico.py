@@ -23,7 +23,8 @@ a = str(a) # "10"
 
 Nombre = "Jorge"
 Apellido = "Miranda"
-Nombre_completo = Nombre + Apellido
+Nombre_completo = Nombre + Apellido # "Jorge Miranda"
+console.log(Nombre_completo)
 
 print( 20 / 3 ) # 6.66666666
 print( 20 // 3 ) # 6
