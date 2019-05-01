@@ -64,7 +64,7 @@ print( 20 + 30 ) # 50 <- suma
 ```
 
 ### Arreglos o vectores
-La indexación del arreglo empieza en `0`. Para acceder al `ì-esimo`(i>=0) valor se usa `nombre_array[i]`. Para obtener la cantidad de elementos se usa la función `len` (ej: ``len(miMatriz)`)
+La indexación del arreglo empieza en `0`. Para acceder al `ì-esimo`(i>=0) valor se usa `nombre_array[i]`. Para obtener la cantidad de elementos se usa la función `len` (ej: `len(miMatriz)`)
 
 ```python
 pecados = ["lujuria","ira","soberbia","envidia","avaricia","pereza","gula"]
